@@ -20,8 +20,8 @@
   "homepage": "https://github.com/marikosasaki/webpack-crash-course#readme",
   "devDependencies": {
     "live-server": "^1.2.1",
-    "webpack": "^4.33.0",
-    "webpack-cli": "^3.3.2",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.7.1"
   },
   "dependencies": {
